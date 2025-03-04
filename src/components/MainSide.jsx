@@ -18,7 +18,7 @@ export default function MainSide() {
     // }, []);
 
     return (
-        <div className="lg:col-start-2 lg:col-end-3 col-start-1 col-end-2  ">
+        <div className="lg:col-start-2 lg:col-end-3 col-start-1 col-end-2 text-black ">
 
             <div className="flex gap-[2%] flex-wrap w-[100%] h-[100%]">
                 <div className="w-[32%] h-[32%]">2</div>
